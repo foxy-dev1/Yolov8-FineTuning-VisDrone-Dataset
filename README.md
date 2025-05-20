@@ -1,11 +1,11 @@
 # Fine Tuning VisDrone Dataset on Yolov8s 
 
-## Example Predicting using Yolov8l model
+## Example Predicting using Yolov8-large model
 
 ![Demo Screenshot](images/yolo_l_model.png)
 
 
-## Fine Tuned Model Predicting on Same Video
+## Fine Tuned Yolov8-small Model Predicting on Same Video
 
 
 ![Demo Screenshot](images/finetuned_model.png)
